@@ -1,6 +1,4 @@
-# ReSkillAi
-
-The current web prototype is branded Workshift.
+# ReSkill
 
 Explore alternatives to layoffs through internal mobility and practical AI training.
 
