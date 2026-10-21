@@ -1,0 +1,11 @@
+{
+  "name": "workshift",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Workforce mobility and transition cost prototype",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "test": "node --test checks/model.test.cjs checks/departments.test.cjs checks/future.test.cjs checks/competition.test.cjs"
+  }
+}
